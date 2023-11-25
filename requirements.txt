@@ -1,1 +1,8 @@
 openai
+gradio
+langchain
+gpt_index
+gpt-index
+PyPDF2
+llama-index
+llama_index
