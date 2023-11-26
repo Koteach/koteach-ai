@@ -1,6 +1,7 @@
 from openai import OpenAI
 import pandas as pd
 import tiktoken
+import numpy as np
 from ast import literal_eval
 import PyPDF2
 import csv
